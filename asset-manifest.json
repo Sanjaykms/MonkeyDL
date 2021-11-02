@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monkeydl/static/css/main.1005deaa.chunk.css",
+    "main.js": "/monkeydl/static/js/main.eb3c7235.chunk.js",
+    "main.js.map": "/monkeydl/static/js/main.eb3c7235.chunk.js.map",
+    "runtime-main.js": "/monkeydl/static/js/runtime-main.3f2c75a5.js",
+    "runtime-main.js.map": "/monkeydl/static/js/runtime-main.3f2c75a5.js.map",
+    "static/js/2.8919fab0.chunk.js": "/monkeydl/static/js/2.8919fab0.chunk.js",
+    "static/js/2.8919fab0.chunk.js.map": "/monkeydl/static/js/2.8919fab0.chunk.js.map",
+    "static/js/3.efecfef5.chunk.js": "/monkeydl/static/js/3.efecfef5.chunk.js",
+    "static/js/3.efecfef5.chunk.js.map": "/monkeydl/static/js/3.efecfef5.chunk.js.map",
+    "index.html": "/monkeydl/index.html",
+    "static/css/main.1005deaa.chunk.css.map": "/monkeydl/static/css/main.1005deaa.chunk.css.map",
+    "static/js/2.8919fab0.chunk.js.LICENSE.txt": "/monkeydl/static/js/2.8919fab0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f2c75a5.js",
+    "static/js/2.8919fab0.chunk.js",
+    "static/css/main.1005deaa.chunk.css",
+    "static/js/main.eb3c7235.chunk.js"
+  ]
+}
