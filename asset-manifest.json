@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/monkeydl/static/css/main.9287e7e5.css",
-    "main.js": "/monkeydl/static/js/main.8c8be77f.js",
+    "main.js": "/monkeydl/static/js/main.aeb41961.js",
     "static/js/453.a8fee751.chunk.js": "/monkeydl/static/js/453.a8fee751.chunk.js",
     "static/media/FULLMETAL.png": "/monkeydl/static/media/FULLMETAL.cecee368653cb09b1b79.png",
     "static/media/MYHERO.jpg": "/monkeydl/static/media/MYHERO.24c0f5b9b2e810cc3c7d.jpg",
@@ -34,11 +34,11 @@
     "static/media/CODE.jpg": "/monkeydl/static/media/CODE.3e96ac440fd3f869a18d.jpg",
     "index.html": "/monkeydl/index.html",
     "main.9287e7e5.css.map": "/monkeydl/static/css/main.9287e7e5.css.map",
-    "main.8c8be77f.js.map": "/monkeydl/static/js/main.8c8be77f.js.map",
+    "main.aeb41961.js.map": "/monkeydl/static/js/main.aeb41961.js.map",
     "453.a8fee751.chunk.js.map": "/monkeydl/static/js/453.a8fee751.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9287e7e5.css",
-    "static/js/main.8c8be77f.js"
+    "static/js/main.aeb41961.js"
   ]
 }
